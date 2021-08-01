@@ -10,3 +10,8 @@ and displayed.
 
 * **Category** based image gallery.
 
+## Screenshots
+
+-----------
+![img.png](./img/1.png)
+![img.png](./img/2.png)
