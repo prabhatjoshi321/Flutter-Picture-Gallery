@@ -6,7 +6,7 @@
 This was my **Flutter based** project. The tools used in this project are **Flutter**. This project was made by me to learn about how to fetch and use data from API. In this project, images are fetched from Open source API
 and displayed.
 
-## It consistss of
+## It consists of
 
 * **Category** based image gallery.
 
